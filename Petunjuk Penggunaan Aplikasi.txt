@@ -1,0 +1,14 @@
+Pentunjuk Import Database
+1. Buka Phpmyadmin kemudian buat database dengan nama db_programming_yhc
+2. lalu pilih import
+3. kemudian pilih file db_programming_yhc.sql yang telah disediakan
+
+Daftar Username dan Password yang dapat digunakan
+Username : ardi
+Password : ardi
+
+Username : admin
+Password : admin
+
+Username : user
+Password : user
